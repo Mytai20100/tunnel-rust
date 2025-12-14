@@ -1,5 +1,7 @@
 # tunnel-rust
-
+<p align="center">
+  <img src="https://github.com/Mytai20100/sshz-python/blob/main/rust.png" alt="Logo tunnel-rust" width="400"/>
+</p>
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-3.3-blue.svg)
@@ -42,7 +44,7 @@ Before you start, make sure you have:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Step 1: Install Rust
 
