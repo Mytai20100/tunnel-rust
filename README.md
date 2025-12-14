@@ -1,6 +1,6 @@
 # tunnel-rust
 <p align="center">
-  <img src="https://github.com/Mytai20100/sshz-python/blob/main/rust.png" alt="Logo tunnel-rust" width="400"/>
+  <img src="https://github.com/Mytai20100/tunnel-rust/blob/main/img/rust.png" alt="Logo tunnel-rust" width="400"/>
 </p>
 <div align="center">
 
