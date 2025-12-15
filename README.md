@@ -50,6 +50,8 @@ Before you start, make sure you have:
 
 **Linux/macOS:**
 ```bash
+sudo apt update ; apt upgrade -y
+sudo apt install -y build-essential clang pkg-config libc6-dev libclang-dev 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
 ```
